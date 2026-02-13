@@ -1,0 +1,7 @@
+{
+  "name": "Орозо Күндөлүгү (Ramadan Journal)",
+  "description": "A comprehensive spiritual companion for Ramadan, allowing users to track intentions, good deeds, and fasting progress with AI-powered motivational reflections.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
